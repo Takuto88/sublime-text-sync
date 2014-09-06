@@ -1,0 +1,19 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"jQuery",
+		"Package Control",
+		"Package Syncing",
+		"PHP Getters and Setters",
+		"RailsCasts Colour Scheme",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Sunnyvale Color Scheme",
+		"Theme - Soda"
+	]
+}

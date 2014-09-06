@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Sunnyvale Color Scheme/sunnyvale-theme.tmTheme",
+	"font_size": 15.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Soda Dark.sublime-theme"
+}
