@@ -3,6 +3,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"ColorPicker",
 		"DocBlockr",
 		"Emmet",
 		"Git",
