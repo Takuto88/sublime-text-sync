@@ -2,11 +2,13 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"Additional PHP Snippets",
 		"AdvancedNewFile",
 		"ColorPicker",
 		"DocBlockr",
 		"Emmet",
 		"Git",
+		"Indent XML",
 		"jQuery",
 		"Package Control",
 		"Package Syncing",
