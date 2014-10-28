@@ -1,0 +1,15 @@
+{
+	/*
+        Sets the parser used for building markdown to HTML.
+
+        NOTE: The parser setting is not for the preview commands now.
+        The previews have separate commands for each parser markdown.
+
+        Warning for github API: if you have a ST2 linux build, Python is not built with SSL so it may not work
+
+        default - The current default parser is python-markdown parser.
+        markdown - Use the built-in python-markdown parser
+        github - Use the github API to convert markdown, so you can use GitHub flavored Markdown, see http://github.github.com/github-flavored-markdown/
+    */
+	"parser": "github"
+}
