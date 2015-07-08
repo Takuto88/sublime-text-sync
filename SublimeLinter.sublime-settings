@@ -1,0 +1,22 @@
+{
+    "user": {
+        "linters": {
+            "jshint": {
+                "@disable": false,
+                "args": ["--config", "/Users/lennart/git/sublime-text-sync/.jshintrc"],
+                "excludes": []
+            },
+            "jslint": {
+                "@disable": true,
+                "args": [],
+                "excludes": []
+            },
+            "php": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            }
+        },
+        "show_errors_on_save": true
+    }
+}
