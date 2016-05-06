@@ -1,13 +1,14 @@
 {
 	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"SublimeLinter-php"
 	],
 	"installed_packages":
 	[
 		"Additional PHP Snippets",
 		"AdvancedNewFile",
+		"CodeFormatter",
 		"ColorPicker",
 		"DocBlockr",
 		"Emmet",
